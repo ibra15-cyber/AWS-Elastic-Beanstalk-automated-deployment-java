@@ -17,7 +17,7 @@ public class WebController {
             <head>
                 <meta charset="UTF-8">
                 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-                <title>AWS Elastic Beanstalk - Spring Boot triggered</title>
+                <title>AWS Elastic Beanstalk - Spring Boot</title>
                 <style>
                     * { margin: 0; padding: 0; box-sizing: border-box; }
                     body { 
@@ -97,7 +97,7 @@ public class WebController {
             <body>
                 <div class="container">
                     <div class="header">
-                        <h1>🚀 AWS Elastic Beanstalk</h1>
+                        <h1>🚀 AWS Elastic Beanstalk triggered</h1>
                         <p>Spring Boot Application Deployment</p>
                     </div>
                     
